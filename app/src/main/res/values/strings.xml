@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleMVP</string>
+    <string name="clouds">Clouds Image</string>
+    <string name="sea">Sea Image</string>
+    <string name="mountain">Mountain Image</string>
+    <string name="default_msg">No Button is clicked</string>
+    <string name="on_cloud_btn_clicked">Cloud Button is clicked</string>
+    <string name="on_sea_btn_clicked">Sea Button is clicked</string>
+    <string name="on_mountain_btn_clicked">Mountain Button is clicked</string>
+</resources>

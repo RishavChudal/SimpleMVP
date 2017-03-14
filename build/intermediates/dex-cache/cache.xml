@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/hrishav/Learning/android/android_studio_projects/SimpleMVP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="055926865a5f47e7e1d0161cc87864b990d3a78f">
+        <dex dex="/home/hrishav/Learning/android/android_studio_projects/SimpleMVP/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_cec4ff0a369745adaeef94de249c5d3d741cdf68.jar" />
+    </item>
+
+</items>
